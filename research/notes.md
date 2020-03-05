@@ -16,4 +16,4 @@
 ### Time slice scheduler uses the tick count to decide after how much time each task's CPU usage expires.
 ### common system time 
 ### rescheduling requirements
-
+#### Important: https://www.bogotobogo.com/cplusplus/multithreaded.php
